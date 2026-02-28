@@ -62,7 +62,7 @@
   > Tribeca is a protocol for creating, managing, and interacting with decentralized autonomous organizations on Solana.
 
 ### Explorer
-- `SolScan`: https://solscan.io/
+- `Solscan`: https://solscan.io/
 - `Solana Explorer`: https://explorer.solana.com/
 - `Solana FM`: https://solana.fm/
 - `XRAY`: human-readable Solana transaction explorer: https://xray.helius.xyz/
@@ -242,7 +242,7 @@
 - `Shyft`: Solana APIs for NFTs, tokens, and transactions: https://shyft.to/
 - Bonfida: https://docs.bonfida.com/#exchanges
 - Bitquery: https://graphql.bitquery.io/ - graphql for Solana blockchain, [article](https://bitquery.io/blog/solana-api)
-- SolScan: https://public-api.solscan.io/docs/
+- Solscan: https://public-api.solscan.io/docs/
 - `Birdeye`: token analytics and price data API: https://birdeye.so/
 
 ### Oracle
